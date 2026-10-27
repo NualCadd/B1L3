@@ -1,0 +1,5 @@
+HCN 10 5
+HT 3
+HCN 8 4
+HT 5
+HCN 12 6
